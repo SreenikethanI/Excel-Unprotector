@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets",
+
+        "yoavbls.pretty-ts-errors",
+        "esbenp.prettier-vscode"
+    ]
+}

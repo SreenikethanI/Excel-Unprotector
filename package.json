@@ -1,6 +1,35 @@
 {
   "name": "excel-unprotector",
   "version": "1.0.0",
+  "description": "Simple webapp to remove sheet protection from an Excel workbook.",
+  "author": {
+    "name": "Sreenikethan I",
+    "url": "https://github.com/SreenikethanI"
+  },
+  "contributors": [
+    {
+      "name": "Sreenikethan I",
+      "url": "https://github.com/SreenikethanI"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SreenikethanI/Excel-Unprotector.git"
+  },
+  "homepage": "https://sreenikethani.github.io/Excel-Unprotector/",
+  "bugs": {
+    "url": "https://github.com/SreenikethanI/Excel-Unprotector/issues"
+  },
+  "keywords": [
+    "excel",
+    "sheet",
+    "unprotect",
+    "protect",
+    "password",
+    "preact",
+    "nodejs",
+    "typescript"
+  ],
   "private": true,
   "type": "module",
   "scripts": {
